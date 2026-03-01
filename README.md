@@ -1,6 +1,8 @@
 # convert-angularv18-2-v21
 Convert Angular v18 to v21
 
+Step 1-4 supported in V18
+
 Step 1 - Move code to Standalone 
 https://github.com/angular/angular/blob/main/adev/src/content/reference/migrations/standalone.md
 
